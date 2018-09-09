@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WIN_20180908_13_55_55_Pro" size="0.089000 0.054273" />
+    <ImageTarget name="Mag" size="0.076000 0.059876" />
+  </Tracking>
+</QCARConfig>
